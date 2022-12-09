@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexanderKolb22
+- 👀 I’m interested in metal forming, data science, modelling, big data
+- 🌱 I’m currently learning Python, Azure Cloud Solutions
+- 💞️ I’m looking to collaborate on decision trees, gradient boosting, deep learning
+- 📫 How to reach me: by eMail: alexander.kolb22@gmx.de
